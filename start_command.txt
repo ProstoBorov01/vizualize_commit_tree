@@ -1,0 +1,1 @@
+python main.py --vizualize C://Users//SavvinPC//AppData//Roaming//npm//mmdc.cmd --repo C:\Users\SavvinPC\Documents\TAIGA\Betton_Admin_Endpoint --output graph.png --branch main
