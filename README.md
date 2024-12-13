@@ -22,5 +22,12 @@
 ```bash
 python visualizer.py --visualizer /path/to/mmdc --repo /path/to/repo --output graph.png --branch main
 
-## Тесты
+```
+
+## Результаты Тестов
+
 ![alt text](image.png)
+
+## Результат выполнения программы
+
+![alt text](image-1.png)
