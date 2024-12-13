@@ -16,8 +16,11 @@
     git clone https://github.com/ProstoBorov01/vizualize_commit_tree.git
     cd vizualize_commit_tree.git
     ```
-    
+
 ## Использование
 
 ```bash
 python visualizer.py --visualizer /path/to/mmdc --repo /path/to/repo --output graph.png --branch main
+
+## Тесты
+![alt text](image.png)
